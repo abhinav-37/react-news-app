@@ -25,8 +25,7 @@ const TopHeadlinesBBC = () => {
                 )
              )}
             </div>
-           
-           
+            
         </div>
      );
 }
